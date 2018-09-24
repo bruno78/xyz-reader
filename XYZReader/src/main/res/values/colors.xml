@@ -35,4 +35,5 @@
     <color name="theme_divider">#BDBDBD</color>
 
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="theme_secondary_text">#6000</color>
 </resources>
