@@ -1,4 +1,9 @@
-# XYZ Reader (in progress...)
+# XYZ Reader
+
+**Before/After**
+<p align="center"><img src="https://cdn.rawgit.com/bruno78/xyz-reader/63fa98b8/assets/before-material-main.png" width="200" /> &nbsp;&nbsp; <img src="https://cdn.rawgit.com/bruno78/xyz-reader/63fa98b8/assets/after-material-main.png" width="200" /></p>
+
+<p align="center"><img src="https://cdn.rawgit.com/bruno78/xyz-reader/63fa98b8/assets/before-material-detail.png" width="200" /> &nbsp;&nbsp; <img src="https://cdn.rawgit.com/bruno78/xyz-reader/1980882d/assets/after-material-detail.png" width="200" /></p>
 
 ## Project Overview
 
